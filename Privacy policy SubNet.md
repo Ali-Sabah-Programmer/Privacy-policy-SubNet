@@ -8,7 +8,7 @@
 
 ## 🛡️ الخلاصة | Summary
 
-**العربية:** لا نبيع بياناتك لأي طرف ثالث، ولا نشاركها إلا بموافقتك أو بموجب القانون.
+ لا نبيع بياناتك لأي طرف ثالث، ولا نشاركها إلا بموافقتك أو بموجب القانون.
 
 **English:** We do not sell your data to any third party and do not share it except with your consent or as required by law.
 
@@ -136,10 +136,7 @@ At **EyeSoft Software Solutions**, we take your privacy very seriously. This pol
 | الفئة | المعلومة |
 |------|--------|
 | **المطوّر / Developer** | المهندس علي صباح — Eng. Ali Sabah |
-| **البريد الإلكتروني / Email** | ali.sabah.abdul.amir@gmail.com |
 | **الشركة / Company** | EyeSoft للحلول البرمجية — EyeSoft Software Solutions |
-| **الهاتف / WhatsApp** | +964 783 140 2840 |
-
 ---
 
 © 2026 EyeSoft للحلول البرمجية — جميع الحقوق محفوظة
